@@ -1,0 +1,5 @@
+include(Controller/Controller.pri)
+include(Filters/Filters.pri)
+include(Utility/Utility.pri)
+include(Lyne/Lyne.pri)
+include(Cloud/Cloud.pri)
